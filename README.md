@@ -30,5 +30,5 @@ Install python library
     
 ## Author
 
-- [@Sebastian Hernandez](https://www.github.com/octokatherine)
+- [@Sebastian Hernandez](https://github.com/JuanSebastianHernandezGomez)
 
